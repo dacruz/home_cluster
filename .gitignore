@@ -1,0 +1,4 @@
+*.key
+*.crt
+*.swp
+.DS_Store
